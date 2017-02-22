@@ -2,7 +2,7 @@
 # 使用mysql源码编译安装
 
 # 设置基础镜像位centos:7,Set the base image to centos:7
-FROM registry.qishon.com/centos:7
+FROM centos:7
 
 # 定义作者
 MAINTAINER wuxyyin/wuxyyin@qq.com
